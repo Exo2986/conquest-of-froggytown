@@ -1,11 +1,11 @@
 *
 !.gitignore
 !README.md
-!config/*
-!data/*
-!mods/*
-!resourcepacks/*
-!resources/*
-!shaderpacks/*
+!config/
+!data/
+!mods/
+!resourcepacks/
+!resources/
+!shaderpacks/
 !options.txt
 !servers.dat
